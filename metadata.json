@@ -1,0 +1,6 @@
+{
+  "name": "JOMU RIDES Admin Panel",
+  "description": "A comprehensive operational dashboard for managing ride-hailing services in Nairobi, featuring real-time trip tracking, driver management, and M-Pesa integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
